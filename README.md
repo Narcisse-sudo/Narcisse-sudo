@@ -1,16 +1,14 @@
-## Hi there 👋
-
-I’m **Narcisse Dalko**, a Master's student in Mathematics for Engineering, Algorithmics and Statistics, specializing in **Data Science**.
+## Hi there 👋 I’m Narcisse Dalko
 
 ---
 
 ### 🔬 About Me
 
-- 🎓 Master 1 – Université d’Abomey-Calavi & currently in France  
-- 📊 Passionate about **statistical modeling**, **machine learning**, and **AI for public impact**
-- 🌍 Areas of interest: public safety, agriculture, health data & environmental forecasting  
-- 🧠 Strong foundation in math, probability, and algorithmics  
-- 🔄 Currently working on the **#100DaysOfCode - Data Science Challenge**
+-  I’m currently pursuing a Master’s degree in Mathematics for Engineering, Algorithmics and Statistics – with a specialization in Data Science  
+-  Actively seeking a **Data Science apprenticeship** starting **September 2025**, as part of my second-year Master's program   
+-  Strong academic background in mathematics, probability, statistics, and algorithms  
+-  Currently undertaking the **#100DaysOfCode – Data Science Challenge**
+
 
 ---
 ### 🛠️ Skills & Tools
