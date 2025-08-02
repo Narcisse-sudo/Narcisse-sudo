@@ -1,17 +1,29 @@
-## Hi there 👋 I’m Narcisse Dalko
+<div align="center">
+
+# Hi there 👋 I’m Narcisse Dalko
+
+</div>
 
 ---
 
-### 🔬 About Me
+<div align="center">
+  
+# 🔬 About Me
+
+</div>
 
 -  I’m currently pursuing a Master’s degree in Mathematics for Engineering, Algorithmics and Statistics – with a specialization in Data Science  
 -  Actively seeking a **Data Science apprenticeship** starting **September 2025**, as part of my second-year Master's program   
 -  Strong academic background in mathematics, probability, statistics, and algorithms  
 -  Currently undertaking the **#100DaysOfCode – Data Science Challenge**
 
-
 ---
+
+<div align="center">
+  
 ### 🛠️ Skills & Tools
+
+</div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,7 +47,11 @@
 
 ---
 
-### 📂 Projects
+<div align="center">
+  
+# Projects
+
+</div>
 
 - 🗂️ `100DaysOfCode-DataScience`: Daily learning challenge focused on data analysis, ML and visualization  
 - 🧪 `ML-Course-Projects`: Applications of supervised and unsupervised algorithms on real-world datasets  
@@ -43,7 +59,7 @@
 
 ---
 
-### 📫 How to reach me
+# How to reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/narcisse-dalko-ab070b2a4" target="_blank">
