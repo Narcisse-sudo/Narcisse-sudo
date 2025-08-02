@@ -16,11 +16,9 @@
 -  Currently undertaking the **#100DaysOfCode – Data Science Challenge**
 
 <div align="center">
-
+l
 </div>
-<div align="center">
 
-</div>
 
 <div align="center">
   
