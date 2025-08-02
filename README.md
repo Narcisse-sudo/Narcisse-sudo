@@ -7,7 +7,7 @@
 
 <div align="center">
   
-# 🔬 About Me
+##  About Me
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align="center">
   
-### 🛠️ Skills & Tools
+## Skills & Tools
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   
-# Projects
+## Projects
 
 </div>
 
