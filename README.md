@@ -3,7 +3,7 @@
 # Hi there 👋 I’m Narcisse Dalko
 
 </div>
-
+.
 
 <div align="center">
   
@@ -17,7 +17,7 @@
 -  Currently undertaking the **#100DaysOfCode – Data Science Challenge**
 
 <div align="center">
-
+.
 </div>
 
 <div align="center">
