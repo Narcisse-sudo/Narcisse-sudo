@@ -15,7 +15,7 @@
 -  Strong academic background in mathematics, probability, statistics, and algorithms  
 -  Currently undertaking the **#100DaysOfCode – Data Science Challenge**
 
---
+---
 
 <div align="center">
   
@@ -43,10 +43,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
-<div align="center">
-  
-</div>
+---
 
 
 <div align="center">
