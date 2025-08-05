@@ -29,7 +29,7 @@ Message:
 {{message}}
 
 ---
-Envoyé depuis le portfolio de Dr. Alex Martin
+Envoyé depuis le portfolio de Narcisse DALKO
 ```
 
 4. Notez le **Template ID** généré

@@ -1,4 +1,4 @@
-# Portfolio Data Scientist - Dr. Alex Martin
+# Portfolio Data Scientist - Narcisse DALKO
 
 Un portfolio professionnel moderne et responsive créé avec React, Vite, Tailwind CSS et Framer Motion.
 
@@ -51,7 +51,7 @@ src/
 
 1. Clonez le repository :
 ```bash
-git clone https://github.com/votre-username/data-scientist-portfolio.git
+git clone https://github.com/narcissedalko/data-scientist-portfolio.git
 cd data-scientist-portfolio
 ```
 
@@ -101,25 +101,13 @@ Modifiez le fichier `src/constants.js` pour personnaliser :
 Placez vos images dans le dossier `public/` :
 - `profile-image.jpg` : Photo de profil
 - `project1.jpg` à `project6.jpg` : Images des projets
-- `cv-alex-martin.pdf` : CV à télécharger
+- `cv-narcisse-dalko.pdf` : CV à télécharger
 
 ## 🎨 Personnalisation du design
 
 ### Couleurs
 
-Modifiez les couleurs dans `tailwind.config.js` :
-
-```js
-theme: {
-  extend: {
-    colors: {
-      primary: {
-        // Vos couleurs personnalisées
-      }
-    }
-  }
-}
-```
+Modifiez les couleurs dans les classes CSS en utilisant les couleurs Tailwind standard ou personnalisées.
 
 ### Animations
 
@@ -168,10 +156,10 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👨‍💻 Auteur
 
-**Dr. Alex Martin**
-- Email : alex.martin@example.com
-- LinkedIn : [Alex Martin](https://linkedin.com/in/alexmartin)
-- GitHub : [alexmartin](https://github.com/alexmartin)
+**Narcisse DALKO**
+- Email : narcisse.dalko@example.com
+- LinkedIn : [Narcisse DALKO](https://linkedin.com/in/narcissedalko)
+- GitHub : [narcissedalko](https://github.com/narcissedalko)
 
 ## 🤝 Contribution
 
