@@ -12,7 +12,7 @@ export const PERSONAL_INFO = {
 
 // Social Links
 export const SOCIAL_LINKS = {
-  github: "https://github.com/narcissedalko",
+  github: "https://github.com/Narcisse-sudo",
   linkedin: "https://linkedin.com/in/narcissedalko",
   twitter: "https://twitter.com/narcissedalko",
   kaggle: "https://kaggle.com/narcissedalko",
@@ -52,7 +52,7 @@ export const PROJECTS = [
     description: "Modèle de machine learning pour prédire les prix immobiliers en utilisant des algorithmes d'ensemble et des techniques de feature engineering avancées.",
     image: "/project1.jpg",
     tech: ["Python", "Scikit-learn", "XGBoost", "Pandas", "Matplotlib"],
-    github: "https://github.com/narcissedalko/real-estate-prediction",
+    github: "https://github.com/Narcisse-sudo/real-estate-prediction",
     demo: "https://real-estate-predictor.herokuapp.com",
     category: "Machine Learning"
   },
@@ -62,7 +62,7 @@ export const PROJECTS = [
     description: "Système d'analyse de sentiment en temps réel sur les tweets utilisant des modèles de NLP et une interface de visualisation interactive.",
     image: "/project2.jpg",
     tech: ["Python", "NLTK", "Transformers", "Streamlit", "Twitter API"],
-    github: "https://github.com/narcissedalko/twitter-sentiment",
+    github: "https://github.com/Narcisse-sudo/twitter-sentiment",
     demo: "https://twitter-sentiment-analyzer.streamlit.app",
     category: "NLP"
   },
@@ -72,7 +72,7 @@ export const PROJECTS = [
     description: "Tableau de bord interactif pour analyser les performances d'une boutique en ligne avec des métriques KPI et des prédictions de ventes.",
     image: "/project3.jpg",
     tech: ["Python", "Plotly", "Dash", "PostgreSQL", "Docker"],
-    github: "https://github.com/narcissedalko/ecommerce-dashboard",
+    github: "https://github.com/Narcisse-sudo/ecommerce-dashboard",
     demo: "https://ecommerce-analytics-dashboard.herokuapp.com",
     category: "Data Visualization"
   },
@@ -82,7 +82,7 @@ export const PROJECTS = [
     description: "Modèle d'apprentissage automatique pour détecter les transactions frauduleuses en temps réel avec une précision de 99.2%.",
     image: "/project4.jpg",
     tech: ["Python", "TensorFlow", "Kafka", "Redis", "AWS"],
-    github: "https://github.com/narcissedalko/fraud-detection",
+    github: "https://github.com/Narcisse-sudo/fraud-detection",
     demo: "https://fraud-detection-demo.herokuapp.com",
     category: "Machine Learning"
   },
@@ -92,7 +92,7 @@ export const PROJECTS = [
     description: "Système de recommandation collaboratif et basé sur le contenu pour suggérer des films personnalisés aux utilisateurs.",
     image: "/project5.jpg",
     tech: ["Python", "TensorFlow", "Surprise", "Flask", "React"],
-    github: "https://github.com/narcissedalko/movie-recommender",
+    github: "https://github.com/Narcisse-sudo/movie-recommender",
     demo: "https://movie-recommender-app.netlify.app",
     category: "Recommendation System"
   },
@@ -102,7 +102,7 @@ export const PROJECTS = [
     description: "CNN pour classifier les images radiologiques et aider au diagnostic médical avec une précision de 94%.",
     image: "/project6.jpg",
     tech: ["Python", "TensorFlow", "Keras", "OpenCV", "Flask"],
-    github: "https://github.com/narcissedalko/medical-image-classification",
+    github: "https://github.com/Narcisse-sudo/medical-image-classification",
     demo: "https://medical-classifier.herokuapp.com",
     category: "Deep Learning"
   }

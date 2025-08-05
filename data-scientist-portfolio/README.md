@@ -51,7 +51,7 @@ src/
 
 1. Clonez le repository :
 ```bash
-git clone https://github.com/narcissedalko/data-scientist-portfolio.git
+git clone https://github.com/Narcisse-sudo/data-scientist-portfolio.git
 cd data-scientist-portfolio
 ```
 
@@ -159,7 +159,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 **Narcisse DALKO**
 - Email : narcisse.dalko@example.com
 - LinkedIn : [Narcisse DALKO](https://linkedin.com/in/narcissedalko)
-- GitHub : [narcissedalko](https://github.com/narcissedalko)
+- GitHub : [Narcisse-sudo](https://github.com/Narcisse-sudo)
 
 ## 🤝 Contribution
 
