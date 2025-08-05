@@ -1,22 +1,22 @@
 // Personal Information
 export const PERSONAL_INFO = {
-  name: "Dr. Alex Martin",
+  name: "Narcisse DALKO",
   title: "Data Scientist",
-  email: "alex.martin@example.com",
+  email: "narcisse.dalko@example.com",
   phone: "+33 6 12 34 56 78",
   location: "Paris, France",
   bio: "Passionné par l'intelligence artificielle et l'analyse de données, je transforme des données complexes en insights stratégiques. Avec plus de 5 ans d'expérience, je spécialise dans le machine learning, le NLP et la visualisation de données pour aider les entreprises à prendre des décisions éclairées.",
-  cvUrl: "/cv-alex-martin.pdf",
+  cvUrl: "/cv-narcisse-dalko.pdf",
   profileImage: "/profile-image.jpg"
 };
 
 // Social Links
 export const SOCIAL_LINKS = {
-  github: "https://github.com/alexmartin",
-  linkedin: "https://linkedin.com/in/alexmartin",
-  twitter: "https://twitter.com/alexmartin",
-  kaggle: "https://kaggle.com/alexmartin",
-  email: "mailto:alex.martin@example.com"
+  github: "https://github.com/narcissedalko",
+  linkedin: "https://linkedin.com/in/narcissedalko",
+  twitter: "https://twitter.com/narcissedalko",
+  kaggle: "https://kaggle.com/narcissedalko",
+  email: "mailto:narcisse.dalko@example.com"
 };
 
 // Skills Data
@@ -52,7 +52,7 @@ export const PROJECTS = [
     description: "Modèle de machine learning pour prédire les prix immobiliers en utilisant des algorithmes d'ensemble et des techniques de feature engineering avancées.",
     image: "/project1.jpg",
     tech: ["Python", "Scikit-learn", "XGBoost", "Pandas", "Matplotlib"],
-    github: "https://github.com/alexmartin/real-estate-prediction",
+    github: "https://github.com/narcissedalko/real-estate-prediction",
     demo: "https://real-estate-predictor.herokuapp.com",
     category: "Machine Learning"
   },
@@ -62,7 +62,7 @@ export const PROJECTS = [
     description: "Système d'analyse de sentiment en temps réel sur les tweets utilisant des modèles de NLP et une interface de visualisation interactive.",
     image: "/project2.jpg",
     tech: ["Python", "NLTK", "Transformers", "Streamlit", "Twitter API"],
-    github: "https://github.com/alexmartin/twitter-sentiment",
+    github: "https://github.com/narcissedalko/twitter-sentiment",
     demo: "https://twitter-sentiment-analyzer.streamlit.app",
     category: "NLP"
   },
@@ -72,7 +72,7 @@ export const PROJECTS = [
     description: "Tableau de bord interactif pour analyser les performances d'une boutique en ligne avec des métriques KPI et des prédictions de ventes.",
     image: "/project3.jpg",
     tech: ["Python", "Plotly", "Dash", "PostgreSQL", "Docker"],
-    github: "https://github.com/alexmartin/ecommerce-dashboard",
+    github: "https://github.com/narcissedalko/ecommerce-dashboard",
     demo: "https://ecommerce-analytics-dashboard.herokuapp.com",
     category: "Data Visualization"
   },
@@ -82,7 +82,7 @@ export const PROJECTS = [
     description: "Modèle d'apprentissage automatique pour détecter les transactions frauduleuses en temps réel avec une précision de 99.2%.",
     image: "/project4.jpg",
     tech: ["Python", "TensorFlow", "Kafka", "Redis", "AWS"],
-    github: "https://github.com/alexmartin/fraud-detection",
+    github: "https://github.com/narcissedalko/fraud-detection",
     demo: "https://fraud-detection-demo.herokuapp.com",
     category: "Machine Learning"
   },
@@ -92,7 +92,7 @@ export const PROJECTS = [
     description: "Système de recommandation collaboratif et basé sur le contenu pour suggérer des films personnalisés aux utilisateurs.",
     image: "/project5.jpg",
     tech: ["Python", "TensorFlow", "Surprise", "Flask", "React"],
-    github: "https://github.com/alexmartin/movie-recommender",
+    github: "https://github.com/narcissedalko/movie-recommender",
     demo: "https://movie-recommender-app.netlify.app",
     category: "Recommendation System"
   },
@@ -102,7 +102,7 @@ export const PROJECTS = [
     description: "CNN pour classifier les images radiologiques et aider au diagnostic médical avec une précision de 94%.",
     image: "/project6.jpg",
     tech: ["Python", "TensorFlow", "Keras", "OpenCV", "Flask"],
-    github: "https://github.com/alexmartin/medical-image-classification",
+    github: "https://github.com/narcissedalko/medical-image-classification",
     demo: "https://medical-classifier.herokuapp.com",
     category: "Deep Learning"
   }
@@ -194,19 +194,19 @@ export const CERTIFICATIONS = [
     name: "AWS Certified Machine Learning - Specialty",
     issuer: "Amazon Web Services",
     year: "2023",
-    credentialId: "AWS-ML-2023-AM"
+    credentialId: "AWS-ML-2023-ND"
   },
   {
     name: "TensorFlow Developer Certificate",
     issuer: "Google",
     year: "2022",
-    credentialId: "TF-DEV-2022-AM"
+    credentialId: "TF-DEV-2022-ND"
   },
   {
     name: "Professional Data Scientist",
     issuer: "Microsoft",
     year: "2021",
-    credentialId: "MS-DS-2021-AM"
+    credentialId: "MS-DS-2021-ND"
   }
 ];
 
