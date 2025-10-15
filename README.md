@@ -52,9 +52,10 @@
 
 </div>
 
-- 🗂️ `100DaysOfCode-DataScience`: Daily learning challenge focused on data analysis, ML and visualization  
-- 🧪 `ML-Course-Projects`: Applications of supervised and unsupervised algorithms on real-world datasets  
-- 📉 `DecisionTreeBagging-Cpp`: Custom decision tree ensemble in C++ using Gini/Variance split criteria
+-  `100DaysOfCode-DataScience`: Daily learning challenge focused on data analysis, ML and visualization  
+-  `ML-Course-Projects`: Applications of supervised and unsupervised algorithms on real-world datasets  
+-  `DecisionTreeBagging-Cpp`: Custom decision tree ensemble in C++ using Gini/Variance split criteria
+- `Transformer-Classification`: Mathematical understanding and implementation of a simplified Transformer architecture for text and image classification, compared with MLP, CNN, and LSTM models
 
 ---
 
