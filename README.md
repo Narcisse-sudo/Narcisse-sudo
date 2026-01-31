@@ -11,7 +11,7 @@
 </div>
 
 -  I’m currently pursuing a Master’s degree in Mathematics for Engineering, Algorithmics and Statistics – with a specialization in Data Science  
--  Actively seeking a **Data Science internship** starting **Avril 2026**, as part of my second-year Master's program   
+-  Starting a Data Science internship in March 2026, as part of my second-year Master's program   
 -  Strong academic background in mathematics, probability, statistics, and algorithms  
 -  I am currently exploring artificial neural networks and transformers
 
