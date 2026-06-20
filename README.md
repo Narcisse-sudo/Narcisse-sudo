@@ -10,8 +10,7 @@
 ## About Me
 
 - 🎓 Master’s student in **Mathematics for Engineering, Algorithmics & Statistics** (Data Science track)  
--  **Data Science internship starting March 2026** (M2)  
--  Looking for an **Apprenticeship (Data Scientist & AI) – Sept. 2026 (24 months)**  
+-  **Data Science internship starting March 2026** (M2)   
 -  Strong foundation in **probability, statistics, optimization, and algorithms**
 -  Currently focusing on **neural networks, NLP, and Transformers**
 
