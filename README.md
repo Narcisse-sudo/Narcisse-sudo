@@ -1,7 +1,10 @@
 <div align="center">
 
-# Hi there 👋 I’m **Narcisse Dalko**
-**Data Science • Machine Learning • Deep Learning (NLP/Transformers)**
+# Narcisse Dalko
+
+**Data Science | Machine Learning | Statistical Modeling**
+
+[Email](mailto:dalkonarcisse19@gmail.com) · [LinkedIn](https://www.linkedin.com/in/narcisse-dalko-ab070b2a4)
 
 </div>
 
@@ -9,75 +12,109 @@
 
 ## About Me
 
-- 🎓 Master’s student in **Mathematics for Engineering, Algorithmics & Statistics** (Data Science track)  
--  **Data Science internship since March 2026** (M2)   
--  Strong foundation in **probability, statistics, optimization, and algorithms**
--  Currently focusing on **neural networks, NLP, and Transformers**
+I am a Master’s student in **Data Science for Health, Insurance and Finance** at **Université d’Évry Paris-Saclay** and a **Data Analyst Apprentice at Crédit Agricole Assurances**, within the Internal Audit Data team.
 
----
+With a strong foundation in probability, statistics, optimization, and algorithms, I am interested in developing and evaluating models for real-world applications. My experience spans data analysis, machine learning, and deep learning for scientific imaging.
 
-## Skills & Tools
+## Professional Experience
 
+### Data Analyst Apprentice — Crédit Agricole Assurances
+*September 2026 – Present*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Contribute to data preparation and analysis within Internal Audit.
+- Use SQL, SAS, Excel, Power Query, and Power BI to support analytical workflows.
+- Work on a project related to clay shrinkage and swelling risk in insurance.
 
----
+### Data Science Research Intern — FARE Laboratory, INRAE / URCA
+*2026*
 
-## Featured Projects
+Research on 3D confocal images of wood cell walls to study their evolution during enzymatic hydrolysis.
 
-### 🔹 Transformer Classification (NLP + Vision)
-**Goal:** Mathematical understanding + implementation of a simplified **Transformer** for **text & image classification**, benchmarked against **MLP / CNN / LSTM/GRU**.  
-**Tech:** Python, PyTorch, scikit-learn, NumPy, Pandas  
-➡️ Repo: `Transformer-Classification`
+- Developed and evaluated segmentation workflows, including **3D U-Net**.
+- Worked on image registration and temporal tracking.
+- Compared preprocessing methods, training configurations, and optimization strategies.
+- Assessed segmentation quality using Dice, precision, recall, and variation of information.
 
-### 🔹 Fraud Detection (EDA → Model → App)
-**Goal:** Exploratory analysis, feature engineering, model training + an end-to-end app for fraud detection.  
-**Tech:** Python, scikit-learn, **Streamlit**, **FastAPI**, **Docker Compose**  
-➡️ Repo: `detecter_fraude_bancaire` (or your fraud project repo)
+## Education
 
-### 🔹 Decision Tree + Bagging in C++
-**Goal:** Implement a decision tree from scratch + bagging ensemble (Gini/Variance criteria).  
-**Tech:** C++  
-➡️ Repo: `DecisionTreeBagging-Cpp`
+**Master’s in Data Science for Health, Insurance and Finance — Year 2**  
+Université d’Évry Paris-Saclay | 2026–2027
 
-### 🔹 ML Course Projects (Supervised & Unsupervised)
-**Goal:** Practical ML projects: preprocessing, model comparison, evaluation, interpretability.  
-**Tech:** Python, scikit-learn, Pandas/NumPy  
-➡️ Repo: `ML-Course-Projects`
+## Technical Skills
 
-### 🔹 100 Days of Data Science
-**Goal:** Daily learning logs and mini-projects in analysis, ML, and visualization.  
-➡️ Repo: `100DaysOfCode-DataScience`
+### Programming Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0766D1?style=flat-square)
+
+### Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+
+### Machine Learning & Deep Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+Supervised and unsupervised learning, ensemble methods, convolutional neural networks, 3D image segmentation, and Transformers.
+
+### Data Visualization & Business Intelligence
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+
+### Applications & Development Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Selected Projects
+
+### Transformer Classification
+
+Study and implementation of a simplified Transformer for text and image classification, with comparisons against multilayer perceptrons, convolutional networks, and recurrent models.
+
+**Technologies:** Python, PyTorch, scikit-learn, NumPy, Pandas  
+**Repository:** `Transformer-Classification`
+
+### Fraud Detection
+
+A fraud detection workflow covering exploratory data analysis, feature engineering, model training, evaluation, and application development.
+
+**Technologies:** Python, scikit-learn, Streamlit, FastAPI, Docker Compose  
+**Repository:** `detecter_fraude_bancaire`
+
+### Decision Trees & Bagging in C++
+
+Implementation of decision trees and bagging from scratch, using Gini impurity for classification and variance reduction for regression.
+
+**Technologies:** C++  
+**Repository:** `DecisionTreeBagging-Cpp`
+
+### Machine Learning Course Projects
+
+Academic projects covering data preprocessing, supervised and unsupervised learning, model comparison, and interpretation.
+
+**Technologies:** Python, scikit-learn, Pandas, NumPy  
+**Repository:** `ML-Course-Projects`
+
+## Current Learning
+
+I am expanding my knowledge of **AWS**, **generative AI**, and **retrieval-augmented generation (RAG)**, with an interest in document analysis and applications to audit.
 
 ## Contact
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dalkonarcisse19@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/narcisse-dalko-ab070b2a4" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
----
-
-⚡ *"Using data to drive impact — from safety to sustainability."*
+- **Email:** [dalkonarcisse19@gmail.com](mailto:dalkonarcisse19@gmail.com)
+- **LinkedIn:** [Narcisse Dalko](https://www.linkedin.com/in/narcisse-dalko-ab070b2a4)
