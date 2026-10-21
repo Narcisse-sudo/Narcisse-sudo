@@ -1,11 +1,13 @@
 <div align="center">
-Hi, I'm Narcisse Dalko 👋
 
-Data Science · Machine Learning · Statistical Modeling
+# Hi, I'm Narcisse Dalko 👋
+
+**Data Science · Machine Learning · Statistical Modeling**
 
 Master's student at Université d'Évry Paris-Saclay · Data Analyst Apprentice at Crédit Agricole Assurances
 
-Email LinkedIn
+[![Email](https://img.shields.io/badge/Email-dalkonarcisse19%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dalkonarcisse19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Narcisse%20Dalko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narcisse-dalko-ab070b2a4)
 
 </div>
 
