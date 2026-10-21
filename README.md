@@ -19,31 +19,36 @@ I am a Master’s student in **Data Science for Health, Insurance and Finance** 
 
 With a strong foundation in probability, statistics, optimization, and algorithms, I am interested in developing and evaluating models for real-world applications. My experience spans data analysis, machine learning, and deep learning for scientific imaging.
 
-## Professional Experience
+## 💼 Experience
 
 ### Data Analyst Apprentice — Crédit Agricole Assurances
-*September 2026 – Present*
+*September 2026 – Present · Internal Audit Data team*
 
-- Contribute to data preparation and analysis within Internal Audit.
-- Use SQL, SAS, Excel, Power Query, and Power BI to support analytical workflows.
-- Work on a project related to clay shrinkage and swelling risk in insurance.
+- Data preparation and analysis supporting internal audit missions
+- Analytical workflows with SQL, Python, SAS, AWS, GCP, Excel, Power Query and Power BI
+- Project on **clay shrink-swell risk** in insurance
 
-### Data Science Research Intern — FARE Laboratory, INRAE / URCA
+### Data Science Research Intern — FARE Laboratory (INRAE / URCA)
 *2026*
 
-Research on 3D confocal images of wood cell walls to study their evolution during enzymatic hydrolysis.
+Research on **3D confocal images of wood cell walls** to study their evolution during enzymatic hydrolysis.
 
-- Developed and evaluated segmentation workflows, including **3D U-Net**.
-- Worked on image registration and temporal tracking.
-- Compared preprocessing methods, training configurations, and optimization strategies.
-- Assessed segmentation quality using Dice, precision, recall, and variation of information.
+- Built and evaluated segmentation workflows with **3D U-Net** and **VoxelMorph**
+- Worked on image registration and temporal tracking
+- Compared preprocessing methods, training configurations and optimization strategies
+- Assessed segmentation quality with Dice, precision, recall and variation of information
 
-## Education
+---
 
-**Master’s in Data Science for Health, Insurance and Finance — Year 2**  
-Université d’Évry Paris-Saclay | 2026–2027
+## 🎓 Education
 
-## Technical Skills
+**Master's in Data Science for Health, Insurance and Finance — Year 2**
+Université d'Évry Paris-Saclay · 2026–2027
+
+---
+
+## 🛠️ Tech Stack
+
 
 ### Programming Languages
 
