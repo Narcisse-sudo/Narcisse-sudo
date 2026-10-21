@@ -22,7 +22,7 @@ With a strong foundation in probability, statistics, optimization, and algorithm
 *September 2026 – Present*
 
 - Contribute to data preparation and analysis within Internal Audit.
-- Use SQL, SAS, Excel, Power Query, and Power BI to support analytical workflows.
+- Use SQL, Python, AWS, GCP, SAS, Excel, Power Query, and Power BI to support analytical workflows.
 - Work on a project related to clay shrinkage and swelling risk in insurance.
 
 ### Data Science Research Intern — FARE Laboratory, INRAE / URCA
@@ -30,7 +30,7 @@ With a strong foundation in probability, statistics, optimization, and algorithm
 
 Research on 3D confocal images of wood cell walls to study their evolution during enzymatic hydrolysis.
 
-- Developed and evaluated segmentation workflows, including **3D U-Net**.
+- Developed and evaluated segmentation workflows, including **3D U-Net** and **VoxelMorph**.
 - Worked on image registration and temporal tracking.
 - Compared preprocessing methods, training configurations, and optimization strategies.
 - Assessed segmentation quality using Dice, precision, recall, and variation of information.
