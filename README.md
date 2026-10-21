@@ -4,7 +4,7 @@
 
 **Data Science | Machine Learning | Statistical Modeling**
 
-[Email](mailto:dalkonarcisse19@gmail.com) · [LinkedIn](https://www.linkedin.com/in/narcisse-dalko-ab070b2a4)
+[Email](mailto:dalkonarcisse19@gmail.com) · [LinkedIn](https://www.linkedin.com/in/narcisse-dalko)
 
 </div>
 
