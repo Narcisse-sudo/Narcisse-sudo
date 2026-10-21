@@ -4,7 +4,7 @@
 
 **Data Science · Machine Learning · Statistical Modeling**
 
-Master's student at Université d'Évry Paris-Saclay · Data Analyst Apprentice at Crédit Agricole Assurances
+Master's student at Université d'Évry Paris-Saclay · Data Scientist Apprentice at Crédit Agricole Assurances
 
 [![Email](https://img.shields.io/badge/Email-dalkonarcisse19%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dalkonarcisse19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Narcisse%20Dalko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narcisse-dalko-ab070b2a4)
@@ -15,7 +15,7 @@ Master's student at Université d'Évry Paris-Saclay · Data Analyst Apprentice 
 
 ## About Me
 
-I am a Master’s student in **Data Science for Health, Insurance and Finance** at **Université d’Évry Paris-Saclay** and a **Data Analyst Apprentice at Crédit Agricole Assurances**, within the Internal Audit Data team.
+I am a Master’s student in **Data Science for Health, Insurance and Finance** at **Université d’Évry Paris-Saclay** and a **Data Scientist Apprentice at Crédit Agricole Assurances**, within the Internal Audit Data team.
 
 With a strong foundation in probability, statistics, optimization, and algorithms, I am interested in developing and evaluating models for real-world applications. My experience spans data analysis, machine learning, and deep learning for scientific imaging.
 
